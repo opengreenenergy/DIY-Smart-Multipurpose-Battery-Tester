@@ -65,9 +65,3 @@ Measures the internal resistance of the battery to evaluate battery condition.
 • Battery health evaluation  
 • DIY battery pack building  
 • Educational and research projects
-
----
-
-## License
-
-This project is released under the **MIT License**.
