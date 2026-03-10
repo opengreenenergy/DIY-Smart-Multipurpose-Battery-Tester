@@ -6,6 +6,12 @@ This project helps evaluate **battery health and performance** and is useful for
 
 ---
 
+## Full Project Documentation
+
+Step by step build guide is available here:
+
+https://www.instructables.com/DIY-Smart-Multipurpose-Battery-Tester/
+
 ## Open Green Energy
 
 This project is developed by **Open Green Energy**.
@@ -19,13 +25,10 @@ https://www.youtube.com/c/opengreenenergy
 📷 Instagram  
 https://instagram.com/opengreenenergy
 
----
+❤️ Support Open Green Energy
+If you like this project and want to support development of more open hardware tools:
 
-## Full Project Documentation
-
-Step by step build guide is available here:
-
-https://www.instructables.com/DIY-Smart-Multipurpose-Battery-Tester/
+https://www.patreon.com/opengreenenergy
 
 ---
 
